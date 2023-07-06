@@ -1,0 +1,171 @@
+
+.tahoma{
+    font-weight: bold;
+    font-size: 18px;
+    background-color: rgba(50, 50, 50, 0.200);
+    font-family: Tahoma;
+    width: 200px;
+    text-align: center;
+    cursor: pointer;
+    padding: 5px 0px 5px 0px;
+}
+.bigdeal{
+    font-weight: bold;
+    font-size: 18px;
+    background-color: rgba(50, 50, 50, 0.200);
+    font-family: Arial;
+    width: 240px;
+    margin-top: 0;
+    line-height: 20px;
+    text-align: center;
+    padding: 5px 0px 5px 0px;
+    cursor: pointer;
+}
+.sales{
+    color: rgba(202, 47, 47, 0.658);
+    font-size: 12px;
+    font-family: Arial;
+    font-weight: lighter;
+    padding-right: 120px;
+}
+.html_css{
+    background-color: rgba(50, 50, 50, 0.200);
+    font-family: Verdana;
+    font-size: 18px;
+    width: 220px;
+    font-weight: bold;
+    line-height: 20px;
+    padding: 0px 0px 10px 5px;
+    cursor: pointer;
+}
+.bigtpro{
+    font-size: 12px;
+    font-weight: normal;
+    color: rgba(0, 0, 0, 0.700);
+}
+.skillstl{
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 5px;
+}
+.gst{
+    margin-top: 15px;
+    font-size: 10px;
+    background-color: green;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+.shforb{
+    background-color: rgba(50, 50, 50, 0.200);
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    width: 250px;
+    text-align: center;
+    padding: 10px 5px 10px 5px;
+    cursor: pointer;
+}
+.shaw{
+    font-size: 12px;
+    font-weight: bold;
+    padding-top: 5px;
+    color: rgba(0, 0, 0, 0.780);
+}
+.more{
+    font-size: 10px;
+    color: rgb(85, 119, 219);
+}
+.new_{
+    background-color: rgba(50, 50, 50, 0.200);
+    font-family: Arial;
+    width: 250px;
+    padding: 10px 5px 5px 5px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+.nw{
+    font-size: 12px;
+    color: rgb(241, 158, 2);
+}
+.macpr{
+    font-size: 13px;
+}
+.pros{
+    font-size: 22px;
+}
+.from{
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.700);
+}
+.buy{
+    background-color: royalblue;
+    border-radius: 20px;
+    cursor: pointer;
+    color: white;
+    border: none;
+    font-size: 10px;
+    padding: 5px 10px 5px 10px;
+    margin-top: 5px;
+}
+.uah{
+    background-color: rgba(50, 50, 50, 0.200);
+    width: 250px;
+    padding: 10px 0px 10px 5px;
+    cursor: pointer;
+    font-family: Arial;
+    padding: 10px 0px 10px 5px;
+    line-height: 20px;
+}
+.num{
+    font-size: 25px;
+    font-weight: bold;
+}
+.usd{
+    padding: 0px 0px 0px 10px;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.600);
+    font-weight: bold;
+}
+.today{
+    font-size: 14px;
+    color: green;
+}
+.numero{
+    font-size: 14px;
+    color: red;
+}
+.after{
+    font-size: 14px;
+}
+.free{
+    background-color: rgba(50, 50, 50, 0.200);
+    width: 420px;
+    padding: 5px 2px 5px 10px;
+    font-family: Arial;
+    font-size: 15px;
+    line-height: 20px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.codecamp{
+    font-weight: lighter;
+    padding-left: 5px;
+}
+.webdeloper{
+    font-size:smaller;
+}
+.chp{
+    color: rgb(69, 175, 189);
+    font-size: smaller;
+}
+.here{
+    font-size: smaller;
+}
+.outlines{
+    font-size: smaller;
+}
